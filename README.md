@@ -4,7 +4,7 @@ This repository contains codes and images necessary for reproducing the deep lea
 
 ## Network Training Testing Codes
 
-You can find the codes for network testing in this folder, due to the size restriction, the model file can be downloaded at (https://doi.org/10.5281/zenodo.10203424):
+You can find the codes for network testing in this folder, due to the size restriction, the model file can be downloaded at https://doi.org/10.5281/zenodo.10203424:
 
 1. **Training procedure**: To perform the training of autopsy virtual staining network used the RegiStain framework proposed in our work, simply run `train_stage2_seperate_train_by_iters.py`. Before executing the codes, please make sure to update the paths of the training and validation images within the code. And this RegiStain framework is not restricted in the virtual staining tasks. It is friendly to be adapted to other supervised image-to-image translation tasks which require the pixel-level registration of the paired data. 
 
@@ -16,7 +16,7 @@ You can find the codes for network testing in this folder, due to the size restr
 
 ## Example Images
 
-Example images can be found at (https://doi.org/10.5281/zenodo.10203424). Here's what you will find:
+Example images can be found at https://doi.org/10.5281/zenodo.10203424. Here's what you will find:
 
 
 - **Input**: Autofluorescence images of unstained autopsy tissue sections; each FOV corresponds to a `.mat` file, with the 1st channel representing the DAPI channel and the 2nd channel representing the TxRed channel.
