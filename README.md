@@ -33,3 +33,7 @@ The 10 FOVs are labeled from "001" to "010".
 ## Support
 
 Should you encounter any problems while running the codes, please feel free to contact [liyuzhu@ucla.edu](mailto:liyuzhu@ucla.edu) or [jxlli@ucla.edu](mailto:jxlli@ucla.edu).
+
+## License
+
+This project is open-sourced under the Apache License 2.0. See the LICENSE file for details.
