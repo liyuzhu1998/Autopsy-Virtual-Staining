@@ -10,7 +10,7 @@ You can find the codes for network testing in this folder, due to the size restr
 
 2. **Testing Procedure**: To perform the testing and generate virtually stained H&E images using the autofluorescence channels of the unlabeled autopsy tissue section as the input, simply run `test_G.py`. Before executing the codes, please make sure to update the paths of the testing images within the code.
 
-3. **Dependencies**: The required Python packages to run the codes are listed in `tf2_env.yml`.
+3. **Dependencies**: The required Python packages to run the codes are listed in `tf2_env.yaml`.
 
 4. **Execution Time**: Running the testing codes for a set of 10 example images takes approximately 26 seconds using an Nvidia GeForce RTX 3090 GPU.
 
